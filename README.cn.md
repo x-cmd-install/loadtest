@@ -4,7 +4,7 @@
 
 Runs a load test on the selected URL. Fast and easy to use. Can be integrated in your own workflow using the API.
 
-![loadtest](https://repo.x-cmd.io/loadtest.svg?lang=zh)
+[![x-cmd/install — loadtest Code Quality Monitoring Repo Card](https://repo.x-cmd.io/loadtest.svg?lang=zh)](https://x-cmd.com/install/loadtest)
 
 ## 安装
 
@@ -23,6 +23,16 @@ x install loadtest
 | Json | 55 | 0 | 0 | 1 |
 | Markdown | 0 | 1,418 | 565 | 5 |
 
+## OpenSSF Scorecard 评分
+
+总评分: **2.1 / 10**
+
+评分最低的几项:
+
+- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Token-Permissions** (-1/10) — No tokens found
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/alexfernandez/loadtest>
@@ -30,7 +40,7 @@ x install loadtest
 
 ## 流行度
 
-- **Star**: 2,629 · **Fork**: 212 · **开放 issue**: 159 · **贡献者**: 46
+- **Star**: 2,630 · **Fork**: 212 · **开放 issue**: 159 · **贡献者**: 46
 
 ## 累计统计
 
@@ -40,12 +50,12 @@ x install loadtest
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-23 | 0 | 1 | 0 | 0 | 0 | 2 |
-| last720d | 2024-09-28 | 0 | 3 | 0 | 2 | 0 | 8 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-25 | 0 | 1 | 0 | 0 | 0 | 2 |
+| last720d | 2024-09-30 | 0 | 3 | 0 | 2 | 0 | 8 |
 
 ## 改进这些数据
 
@@ -56,4 +66,4 @@ loadtest 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:44:39Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:43:19Z._
